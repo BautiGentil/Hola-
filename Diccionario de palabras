@@ -1,0 +1,12 @@
+Palabras_significado = {
+                "F": "Una respuesta a algo malo o suseso",
+                "GG": "Como un tipo de festejo o una victoria",
+                }
+                
+word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")  
+                
+if word in Palabras_significado.keys():
+    
+else:
+    # ¿Qué hacer si no se encuentra la palabra?                
+                
